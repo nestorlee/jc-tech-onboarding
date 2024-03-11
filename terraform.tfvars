@@ -1,0 +1,5 @@
+aws_region = "ap-southeast-1"
+firstname = "Nestor"
+lastname = "Lee"
+aws_profile = "JC-SE-NL"
+public_ssh_key = ""
